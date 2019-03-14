@@ -1,7 +1,7 @@
 # traductor
 Es necesario copiar un texto al portapapeles de windows para luego con un servidor xamp se pueda abrir el codigo de php en el directorio
 especificado en el vbs, por lo tanto los pasos para ejecutar el software son
-
+#Pasos para ejecutarlo
 1- tener servidor php con el codigo
 2- configurar el archivo php para el idioma
 3- configurar la direccion del archivo php en el vbs 
